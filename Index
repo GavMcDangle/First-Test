@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    
+     <link rel="stylesheet" href="style.css"/>
+  </head>
+  
+  <body>
+    <div class="header">
+     <h1>Test Document</h1>
+    </div>
+      
+    <div>
+     <img src="https://cdn5-ss14.sharpschool.com/UserFiles/Servers/Server_412397/Image/3840C57A-C03C-431B-B403-A67A0395C61F.png"/<
+    
+     <p>Para</p>
+    
+     <ol>
+       <li>Listed Item </li>
+       <li>Also a listed item</li>
+     </ol>
+    </div>
+      
+    <div class="footer">
+      <h6>Footer Text</h6>
+    </div>
+  </body>
+</html>
